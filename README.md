@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProfessionalAugs
-- 👀 I’m interested in girls
+- 👀 I’m interested in Humans
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Creating a bot on tg
 
