@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ProfessionalAugs
 - 👀 I’m interested in Humans
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Creating a bot on tg
 
 <!---
 ProfessionalAugs/ProfessionalAugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
