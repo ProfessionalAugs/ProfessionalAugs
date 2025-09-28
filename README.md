@@ -10,7 +10,7 @@
 - ![CSS3](https://img.shields.io/badge/Style-CSS3-blue) CSS
 - ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) JavaScript  
 - ![WordPress](https://img.shields.io/badge/Platform-WordPress-21759B?logo=wordpress&logoColor=white) WordPress  
-- Git & GitHub  
+- Git & GitHub.
 
 
 
